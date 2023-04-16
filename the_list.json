@@ -2,181 +2,218 @@
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
+		"name": "TSCore",
+		"type": "service",
+		"dead": true
+	},
+	{
+		"dateClose": "1970-01-01",
+		"description": "N/A",
 		"name": "Ultimate Advertising",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Commcord",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Universal Advertising",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "Allowed the users to create a custom bot with any commands they requested, given they had enough credits for it.",
 		"name": "Creation Central",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Global Lists",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Listably",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Listably (2)",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Listably (3)",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Mixcord",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Mixcord (2)",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "Allowed the users to create a custom bot with any commands from the provided categories, given they had enough credits for it.",
 		"name": "Disworks",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "Provided network-wide protection, banning users from any server Global Protector was in. Was killed due to the code becoming unmaintainable.",
 		"name": "Global Protector",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
-		"description": "N/A",
+		"description": "Collection of various games that the users could play. Killed due to lack of motivation and codebase becoming unmaintainable.",
 		"name": "Disgame",
-		"type": "service"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "Provided the famous Would You Rather game inside Discord. Changed ownership to Frankie.",
 		"name": "Would You Rather",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "A general purpose bot with moderation, entretainment and other miscellaneous commands. Killed due to lost of interest.",
 		"name": "Multra",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Knowledge Base",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Server Advertising",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Advercord",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "MyHelper",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Ethan's Commissions",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Surprising Advertising",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "SmartSystems",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "2022-12-13",
 		"description": "Service that allowed the users to create a custom bot with pre-made commands, given they had enough credits. Killed in favour of Botware.",
 		"name": "myBot",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "TheAPI",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "2022-12-14",
 		"description": "Global Protector v2 I guess.",
 		"name": "Guardian",
-		"type": "bot"
+		"type": "bot",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Gaming Intellect",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Bounce Central",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Slurp Express",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "Software Studio",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	},
 	{
 		"dateClose": "1970-01-01",
 		"description": "N/A",
 		"name": "City of Roxton",
-		"type": "service"
+		"type": "service",
+		"dead": true
 	}
 ]

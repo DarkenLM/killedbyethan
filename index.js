@@ -38,7 +38,14 @@ async function getListData() {
 	})
 }
 
-/** @typedef { {dateClose: string, description: string, link string, name: string, type: string} } Elem */
+/** 
+ * @typedef {Object} Elem 
+ * @prop {string} dateClose
+ * @prop {string} description
+ * @prop {string} name
+ * @prop {string} type
+ * @prop {string} dead
+ * */
 
 /**
  * @param {Elem} elem
@@ -47,7 +54,7 @@ function makeListElem(elem) {
 	return `
 <li class="css-h0240q e1hf78cm2">
 	<div class="css-1ew1k0h e1hf78cm3">
-		<img src="assets/svg/guillotine.svg" alt="Guillotine" class="css-7f50zt e1hf78cm4">
+		<img src="assets/svg/${elem.dead ? "tombstone" : "guillotine"}.svg" alt="${elem.dead ? "Tombstone" : "Guillotine"}" class="css-7f50zt e1hf78cm4">
 		<div class="css-6plnry e1hf78cm1">
 			<time datetime="${elem.dateClose}">${dayjs(elem.dateClose).format("MMMM")}<br>${dayjs(elem.dateClose).format("YYYY")}</time>
 		</div>
